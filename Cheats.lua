@@ -1,4 +1,4 @@
-local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/CoolManofficial/INFAIR/refs/heads/main/Themes.lua"))
+local Library = loadstring(Game:HttpGet("https://raw.githubusercontent.com/CoolManofficial/INFAIR/refs/heads/main/Themes.lua"))()
 
 local Player = game.Player.LocalPlayer.HumanoidRootPart.CFrame
 
